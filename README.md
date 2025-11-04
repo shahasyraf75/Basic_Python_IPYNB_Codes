@@ -1,0 +1,12 @@
+Links used :
+- https://pypi.org/project/ordered-set/
+- https://getemoji.com/
+- https://pypi.org/project/gTTS/
+- https://www.programiz.com/python-programming/function
+- https://learnpython.com/blog/10-python-function-practice-exercises-for-beginners/
+- https://docs.python.org/3/library/exceptions.html
+- https://www.datacamp.com/tutorial/python-inheritance
+- https://www.programiz.com/python-programming/polymorphism
+- https://www.datacamp.com/tutorial/python-abstract-classes
+- https://www.educative.io/answers/what-are-public-protected-private-access-modifiers-in-python
+- https://www.wolframalpha.com/
